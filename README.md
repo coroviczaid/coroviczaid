@@ -38,7 +38,7 @@
 </p>
 <p align="center">
     Some of my favorite projects that I have made recently are:
-    <a href="https://tref.ga/">Radar</a>,
+    <a href="https://tref.ga/">Tref</a>,
     <a href="https://zemo.ga">Website</a>...
 </p>
 
