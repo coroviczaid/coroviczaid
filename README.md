@@ -1,14 +1,14 @@
 <p align="center">
-    <a href="https://zemo.ga">
+    <a href="https://coroviczaid.ga">
         <img src="./assets/banners/Banner.gif/" width="500px" />
     </a>
 </p>
 <p align="center">
-    <a href="https://zemo.ga/">
+    <a href="https://coroviczaid.ga">
         <img src="./assets/icons/other/link-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://github.com/Zemo2311/">
+    <a href="https://github.com/coroviczaid/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -16,11 +16,11 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com//">
+    <a href="https://twitter.com/ZaidCorovic/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/channel//">
+    <a href="https://www.youtube.com/channel/ZaidCorovic/">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -31,15 +31,15 @@
 &nbsp;
 
 <h2 align="center">
-    Hello there! My name is <strong>Zemo</strong>.
+    Hello there! My name is <strong>Zaid</strong>.
 </h2>
 <p align="center">
     I am a software and game developer, with over 4 years of experience in programming. My favorite programming language is <strong>JavaScript</strong>.
 </p>
 <p align="center">
     Some of my favorite projects that I have made recently are:
-    <a href="https://tref.ga/">Tref</a>,
-    <a href="https://zemo.ga">Website</a>...
+    <a href="https://ticketerbot.xyz/">Ticketer</a>,
+    <a href="https://coroviczaid.ga/">Portfolio</a>...
 </p>
 
 &nbsp;
