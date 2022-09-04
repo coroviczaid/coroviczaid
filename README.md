@@ -39,7 +39,9 @@
 <p align="center">
     Some of my favorite projects that I have made recently are:
     <a href="https://ticketerbot.xyz/">Ticketer</a>,
-    <a href="https://coroviczaid.ga/">Portfolio</a>...
+    <a href="https://coroviczaid.ga/">Portfolio</a>
+    <a href="https://discord.gg/zannny">Zanny Bot</a>
+    <a href="https://zannydev.com">Zanny Development Site</a>...
 </p>
 
 &nbsp;
